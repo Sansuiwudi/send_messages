@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/android-studio-2021/AppSpace/send_messages/app/src/main/res/layout/activity_main.xml" value="0.20296570898980537" />
+        <entry key="..\:/android-studio-2021/AppSpace/send_messages/app/src/main/res/layout/activity_send_messages.xml" value="0.264" />
+        <entry key="..\:/android-studio-2021/AppSpace/send_messages/app/src/main/res/layout/phone_item.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
